@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\web-deb\\next-level\\university-management-auth-service-backend\\logs\\winston\\error\\.88337320af9c5fd3b01010f780cdfb2ae11c903c-audit.json",
+    "files": [
+        {
+            "date": 1686718752811,
+            "name": "G:\\web-deb\\next-level\\university-management-auth-service-backend\\logs\\winston\\error\\amu-2023-14-06-10-error.log",
+            "hash": "d5a01aaedf1cb6a8f954d345d1d64b54e33894f100ffb80e22678c5753e168f4"
+        },
+        {
+            "date": 1686718909772,
+            "name": "G:\\web-deb\\next-level\\university-management-auth-service-backend\\logs\\winston\\error\\amu-2023-14-06-11-error.log",
+            "hash": "f7d65feb22fcc1aad8241f986db3707c1099fda5c622cf6e8aa038d225847788"
+        },
+        {
+            "date": 1686722977771,
+            "name": "G:\\web-deb\\next-level\\university-management-auth-service-backend\\logs\\winston\\error\\amu-2023-14-06-12-error.log",
+            "hash": "553acf152f6ba5ee30acae820bf1dae922fad2ff9d5ea4449441ec42cadc07f9"
+        },
+        {
+            "date": 1686726187552,
+            "name": "G:\\web-deb\\next-level\\university-management-auth-service-backend\\logs\\winston\\error\\amu-2023-14-06-13-error.log",
+            "hash": "b487844fac4e0360c587d52873eafa8da463e5805dafef16abd7636aee3ae1ac"
+        },
+        {
+            "date": 1686730885719,
+            "name": "G:\\web-deb\\next-level\\university-management-auth-service-backend\\logs\\winston\\error\\amu-2023-14-06-14-error.log",
+            "hash": "6e58c913c437915fe871d6226037a019a35e5f6131410ecce4f869ceb82c2c58"
+        },
+        {
+            "date": 1686734961550,
+            "name": "G:\\web-deb\\next-level\\university-management-auth-service-backend\\logs\\winston\\error\\amu-2023-14-06-15-error.log",
+            "hash": "144bcb76913aa5962086db82f32ae6c624768ec06c556027a7d9021add5c04d4"
+        },
+        {
+            "date": 1686738571624,
+            "name": "G:\\web-deb\\next-level\\university-management-auth-service-backend\\logs\\winston\\error\\amu-2023-14-06-16-error.log",
+            "hash": "dffe5b17de9f89210e67496f5f01f7c7153f632a52d3054a5681902a3d784c6a"
+        },
+        {
+            "date": 1686740452543,
+            "name": "G:\\web-deb\\next-level\\university-management-auth-service-backend\\logs\\winston\\error\\amu-2023-14-06-17-error.log",
+            "hash": "95961a68896403371b76247dfcf80dea67a56c4212e3dc5115d8c9bd1e31678c"
+        }
+    ],
+    "hashType": "sha256"
+}
